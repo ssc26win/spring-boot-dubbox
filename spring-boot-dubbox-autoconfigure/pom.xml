@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <parent>
-        <groupId>cn.stackbox</groupId>
+        <groupId>cn.stackbox.boot</groupId>
         <artifactId>spring-boot-dubbox-parent</artifactId>
         <version>1.0.0</version>
     </parent>
