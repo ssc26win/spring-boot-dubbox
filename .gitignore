@@ -22,6 +22,8 @@ rebel.xml
 *.swp
 *~
 .mvn
-uniauth-parent.iml
-uniauth-client.iml
-uniauth-server.iml
+spring-boot-dubbox.iml
+spring-boot-dubbox-parent.iml
+spring-boot-dubbox-autoconfigure.iml
+spring-boot-dubbox-starter.iml
+
